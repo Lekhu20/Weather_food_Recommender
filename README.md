@@ -8,7 +8,7 @@ Built using **Python** and **Streamlit**, the application directly consumes data
 ---
 
 ## 🚀 Live Demo
-🔗 
+🔗 https://weatherfoodrecommender-nkkn3zf6h3qjrnezztqtss.streamlit.app/
 
 ---
 
@@ -35,11 +35,3 @@ Built using **Python** and **Streamlit**, the application directly consumes data
 
 ---
 
-## 📦 Installation & Local Setup
-
-To run this project locally on your machine, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/SmartPlate-AI.git](https://github.com/YOUR_GITHUB_Lekhu20/SmartPlate-AI.git)
-   cd SmartPlate-AI
